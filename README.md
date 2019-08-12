@@ -1,6 +1,11 @@
 # Programming Languages course @ HNU CE undergrad
 2019년 2학기 한남대학교 컴퓨터공학과 **프로그래밍언어** 과목 홈페이지입니다.
 
+###### Weekly class schedule:
+| day |   time      | room#  |
+|-----|-------------|--------|
+| Mon | 13:00-14:50 | 90410  |
+| Tue | 10:00-11:50 | 90327  |
 
 ## Textbook
  * 주교재
