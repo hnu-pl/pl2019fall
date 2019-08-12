@@ -1,6 +1,8 @@
 # Programming Languages course @ HNU CE undergrad
 2019년 2학기 한남대학교 컴퓨터공학과 **프로그래밍언어** 과목 홈페이지입니다.
 
+
+## Textbook
  * 주교재
    - [Programming in Haskell, 2nd edition](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
      by [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh)
