@@ -7,6 +7,9 @@
 | Wed | 13:00-14:50 | 90410  |
 | Thr | 10:00-11:50 | 90327  |
 
+[Hi-Class 과목 페이지로 바로가기](https://hiclass.hannam.ac.kr/courses/7806)
+
+
 ## Textbook
  * 주교재
    - [Programming in Haskell, 2nd edition](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
