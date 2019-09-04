@@ -7,9 +7,10 @@
 | Wed | 13:00-14:50 | 90410  |
 | Thr | 10:00-11:50 | 90327  |
 
-[Hi-Class 과목 페이지로 바로가기](https://hiclass.hannam.ac.kr/courses/7806)
-
-
+## 교수 연락처 / 공용 메신저 / 학교 공식 LMS
+* 안기영 kya@hnu.kr
+* [잔디 업무용 메신저 바로가기](https://pl2019fall.jandi.com/)
+* [Hi-Class 과목 페이지로 바로가기](https://hiclass.hannam.ac.kr/courses/9200)
 
 ## Textbook
  * 주교재
