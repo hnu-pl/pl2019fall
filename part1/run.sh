@@ -1,5 +1,5 @@
 ### uncomment below if you want Jupiter Lab 
-# LAB="--env JUPYTER_ENABLE_LAB=yes"
+LAB="--env JUPYTER_ENABLE_LAB=yes"
 
 HOSTPORT=8888
 
