@@ -38,7 +38,7 @@ part1 에 해당하는 진도는 주피터에서 실행하는 IHaskell 환경을
      - 윈도우즈 업데이트 설정이 좀 시간이 걸리지만 해놓으면 편하므로 노트북이나 개인 컴퓨터에서 Windows 10을 사용한다면 이렇게 설치 가능
  * Windows 8이하에서 가상머신 등을 이용하는 방법도 있기는 한데 ...
 ##### part2
-중간고사 이후에 사용할 Prolog 환경은 추후 공지
+[Tau Prolog](http://tau-prolog.org)
 
 
 ## Tentative Plan
