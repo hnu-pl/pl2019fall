@@ -1,7 +1,7 @@
 # Programming Languages course @ HNU CE undergrad
 2019년 2학기 한남대학교 컴퓨터공학과 **프로그래밍언어** 과목 홈페이지입니다.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hnu-pl/pl2019fall/master?urlpath=lab)
-[![NBviewer](./nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/hnu-pl/pl2019fall/blob/master/part1)
+[![NBviewer](./nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/hnu-pl/pl2019fall/tree/master/part1)
 
 ###### Weekly class schedule:
 | day |   time      | room#  |
