@@ -28,7 +28,7 @@ tc(G, app(E1,E2), B     ) :- tc(G, E1, T1), tc(G, E2, T2),
 tychk(G,E,T) :- tm(E) -> tc(G,E,T) ; synerr([E,' is not a well-formed term']).
 
 
-% some obvious ill-typed terms type check in Tau-Prolog :(
+% some obviously ill-typed terms type check in Tau-Prolog :(
 %
 % In SWI-Prolog and GNU Prolog, ... this query prints a type error and fails
 %
