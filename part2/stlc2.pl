@@ -28,13 +28,16 @@ tc(G, app(E1,E2), B     ) :- tc(G, E1, T1), tc(G, E2, T2),
 tychk(G,E,T) :- tm(E) -> tc(G,E,T) ; synerr([E,' is not a well-formed term']).
 
 
-% some obviously ill-typed terms type check in Tau-Prolog :(
+% this issue was quickly fixed after reporting 
+% https://github.com/jariazavalverde/tau-prolog/issues/90
 %
-% In SWI-Prolog and GNU Prolog, ... this query prints a type error and fails
-%
-% ?- tychk([],app(lam(f,lam(x,app(var(f),var(x)))),val(3)),T).
-% TYPE ERROR: lam(f,lam(x,app(var(f),var(x)))):((_61->_62)->_61->_62) cannot be applied to val(3):int
-% false.
-% 
-% However, in Tau-Prolog as of now 2019-10-10 KST 14:25 it magically succeeds @.@
-%
+% % some obviously ill-typed terms type check in Tau-Prolog :(
+% %
+% % In SWI-Prolog and GNU Prolog, ... this query prints a type error and fails
+% %
+% % ?- tychk([],app(lam(f,lam(x,app(var(f),var(x)))),val(3)),T).
+% % TYPE ERROR: lam(f,lam(x,app(var(f),var(x)))):((_61->_62)->_61->_62) cannot be applied to val(3):int
+% % false.
+% % 
+% % However, in Tau-Prolog as of now 2019-10-10 KST 14:25 it magically succeeds @.@
+% %
