@@ -42,6 +42,8 @@ part1 에 해당하는 진도는 주피터에서 실행하는 IHaskell 환경을
 ##### part2
 [Tau Prolog](http://tau-prolog.org)
 
+[SWI Prolog](https://www.swi-prolog.org/)
+
 
 ## Tentative Plan
 ###### part1. 인터프리터와 타입검사를 함수형 프로그래밍으로 익혀보자
