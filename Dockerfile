@@ -2,8 +2,8 @@
 #
 # Test this Dockerfile:
 #
-#     docker build -t compiler2019fall .
-#     docker run --rm -p 8888:8888 --name learn-you-a-haskell --env JUPYTER_TOKEN=x compiler2019fall:latest
+#     docker build -t pl2019fall .
+#     docker run --rm -p 8888:8888 --name learn-you-a-haskell --env JUPYTER_TOKEN=x pl2019fall:latest
 #
 
 FROM crosscompass/ihaskell-notebook:e763dc764d90
