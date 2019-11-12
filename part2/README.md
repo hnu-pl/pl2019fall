@@ -3,6 +3,8 @@
 ## likes.pl
 http://tau-prolog.org/sandbox/XogI1MWm
 
+사랑의 작대기 fact를 바탕으로 커플이 될 수 있는 rule을 정의
+
 ## stlc.pl
 http://tau-prolog.org/sandbox/eQPcKkpG
 
