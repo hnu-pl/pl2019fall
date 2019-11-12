@@ -1,16 +1,10 @@
 % likes.pl
 
-% facts
-likes(john, jane).
-likes(john, mary).
-likes(bob, mary).
-likes(tim, jane).
-likes(tim, lucy).
-likes(jane, bob).
-likes(mary, john).
-likes(mary, tim).
-likes(lucy, bob).
-likes(lucy, tim).
+% fact
+likes(john,mary).
+likes(bob,mary).
+likes(jane,john).
+likes(mary,john).
 
 % rule
-couple(X, Y) :- likes(X, Y), likes(Y, X).
+couple(X,Y) :- likes(X,Y), likes(Y,X).
