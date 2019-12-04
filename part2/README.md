@@ -5,6 +5,16 @@ http://tau-prolog.org/sandbox/XogI1MWm
 
 사랑의 작대기 fact를 바탕으로 커플이 될 수 있는 rule을 정의
 
+## family.pl
+
+가계도
+
+## wgc.pl
+http://tau-prolog.org/sandbox/YsW40G6W
+
+농부가 배를 몰아 강 반대쪽으로 늑대(Wolf), 염소(Goat), 양배추(Cabbage)를 옮기는 문제
+
+
 ## stlc.pl
 http://tau-prolog.org/sandbox/eQPcKkpG
 
